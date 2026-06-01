@@ -6,7 +6,7 @@ A single-page React application where authenticated users explore countries, sea
 
 🌐 Deployed Application
 
-https://wanderlog-siddharth.vercel.app
+https://wandelog33.vercel.app
 
 ## 🚀 How to Run Locally
 
